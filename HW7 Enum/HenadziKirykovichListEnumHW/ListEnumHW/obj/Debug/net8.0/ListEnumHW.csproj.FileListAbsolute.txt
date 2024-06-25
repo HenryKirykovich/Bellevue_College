@@ -1,0 +1,14 @@
+C:\Users\info\Desktop\ListEnumHW\bin\Debug\net8.0\ListEnumHW.exe
+C:\Users\info\Desktop\ListEnumHW\bin\Debug\net8.0\ListEnumHW.deps.json
+C:\Users\info\Desktop\ListEnumHW\bin\Debug\net8.0\ListEnumHW.runtimeconfig.json
+C:\Users\info\Desktop\ListEnumHW\bin\Debug\net8.0\ListEnumHW.dll
+C:\Users\info\Desktop\ListEnumHW\bin\Debug\net8.0\ListEnumHW.pdb
+C:\Users\info\Desktop\ListEnumHW\obj\Debug\net8.0\ListEnumHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\ListEnumHW\obj\Debug\net8.0\ListEnumHW.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\ListEnumHW\obj\Debug\net8.0\ListEnumHW.AssemblyInfo.cs
+C:\Users\info\Desktop\ListEnumHW\obj\Debug\net8.0\ListEnumHW.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\ListEnumHW\obj\Debug\net8.0\ListEnumHW.dll
+C:\Users\info\Desktop\ListEnumHW\obj\Debug\net8.0\refint\ListEnumHW.dll
+C:\Users\info\Desktop\ListEnumHW\obj\Debug\net8.0\ListEnumHW.pdb
+C:\Users\info\Desktop\ListEnumHW\obj\Debug\net8.0\ListEnumHW.genruntimeconfig.cache
+C:\Users\info\Desktop\ListEnumHW\obj\Debug\net8.0\ref\ListEnumHW.dll
